@@ -234,6 +234,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/universal2100-common/proprietary/vendor/lib64/libenn_dsp_dal.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libenn_dsp_dal.so \
     vendor/samsung/universal2100-common/proprietary/vendor/lib64/libenn_dsp_fw_graph_parser.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libenn_dsp_fw_graph_parser.so \
     vendor/samsung/universal2100-common/proprietary/vendor/lib64/libenn_dsp_kernels_cpu.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libenn_dsp_kernels_cpu.so \
+    vendor/samsung/universal2100-common/proprietary/vendor/lib64/libepic_helper.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libepic_helper.so \
     vendor/samsung/universal2100-common/proprietary/vendor/lib64/libese-grdg.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libese-grdg.so \
     vendor/samsung/universal2100-common/proprietary/vendor/lib64/libexynoscamera_plugin.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libexynoscamera_plugin.so \
     vendor/samsung/universal2100-common/proprietary/vendor/lib64/libexynoscamera_plugin_utils.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libexynoscamera_plugin_utils.so \
